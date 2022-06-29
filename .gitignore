@@ -1,0 +1,8 @@
+screenshots/
+.travis.yml
+assets/css/style.css
+assets/js/*
+!assets/js/script.min.js
+!assets/js/bs-modal.min.js
+!assets/js/index.html
+*.zip

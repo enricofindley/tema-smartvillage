@@ -1,0 +1,53 @@
+{
+  "active": false,
+  "default_whatsapp": "628123456789",
+  "mode": "whatsapp",
+  "multi_vendor": false,
+  "products": [
+    {
+      "name": "Keripik Melinjo",
+      "description": "Emping melinjo yang bisa pilih level pedasnya sesuai selera Anda",
+      "price": 10000,
+      "piece": "bungkus",
+      "image": "keripik_melinjo.jpg",
+      "whatsapp": "6285123456789",
+      "external_link": ""
+    },
+    {
+      "name": "Bakso Beku",
+      "description": "Bakso siap saji dari bahan-bahan yang fresh berisi 650gr per bungkus",
+      "price": 60000,
+      "piece": "bungkus",
+      "image": "bakso_beku.jpg",
+      "whatsapp": "",
+      "external_link": ""
+    },
+    {
+      "name": "Jalangkote",
+      "description": "Jalangkote murah dengan isian yang variatif dan menyehatkan",
+      "price": 2000,
+      "piece": "biji",
+      "image": "jalkot.jpg",
+      "whatsapp": "",
+      "external_link": ""
+    },
+    {
+      "name": "Lepet Ketan",
+      "description": "Produk olahan dari ketan dengan aroma daun kelapa yg khas",
+      "price": 3000,
+      "piece": "biji",
+      "image": "lepet.jpg",
+      "whatsapp": "",
+      "external_link": ""
+    },
+    {
+      "name": "Cenil Pelangi",
+      "description": "Jajanan sehat nan manis",
+      "price": 5000,
+      "piece": "bungkus",
+      "image": "cenil.jpg",
+      "whatsapp": "",
+      "external_link": ""
+    }
+  ]
+}
